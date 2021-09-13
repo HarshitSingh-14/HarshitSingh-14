@@ -1,5 +1,6 @@
 <div align="center">
-<h2> �  Hi There :wave:, This is Harshit Singh </h2>
+<h2> �  Hi There :wave:, This is Harshit Singh   <a href="https://github.com/HarshitSingh-14/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/HarshitSingh-14" alt="Stars Badge"/></a>
+ </h2>
 
 <!--
 **HarhitSingh-14/HarhitSingh-14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,6 +29,8 @@ Brief STATS about me :)
 <h3></h3
 <h3></h3>
 <br>
+
+
 <h3></h3>
 <h3></h3
 <h3></h3>
