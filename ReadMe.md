@@ -26,7 +26,7 @@ Brief STATS about me :)
 - -:grinning: Highly Inspired by SaaS <br>
 </div>
 <h3></h3>
-<h3>Hello</h3
+<h3></h3
 <h3></h3>
 <br>
 
