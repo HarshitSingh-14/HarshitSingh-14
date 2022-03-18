@@ -7,6 +7,7 @@
 
 
 -->
+![](https://komarev.com/ghpvc/?username=HarshitSingh-14)
 
 
 Brief STATS about me :)
