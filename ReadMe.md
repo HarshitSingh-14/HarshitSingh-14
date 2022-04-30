@@ -26,9 +26,10 @@ Brief STATS about me :)
 - -:relaxed: Learning to code <br>
 - -:grinning: Highly Inspired by SaaS <br>
 </div>
-<h3></h3>
-<h3></h3
-<h3></h3>
+<h3>
+<h2 align="center">Visitors :alien:</h2>
+<p align="center"><img src="https://profile-counter.glitch.me/{harshitsingh-14}/count.svg" alt="harshitsingh-14 :: Visitor's Count" /></p>
+</h3>
 <br>
 
 
