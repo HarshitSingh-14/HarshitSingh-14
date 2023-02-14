@@ -48,7 +48,10 @@ Brief STATS about me :)
 </div>
 </br>
 
-[![My github activity graph ------>>> ](https://activity-graph.herokuapp.com/graph?username=HarshitSingh-14&theme=dracula)](https://github.com/bindaldhara/github-readme-activity-graph)
+<div>
+
+[![trophy]( https://github-profile-trophy.vercel.app/?username=HarshitSingh-14&theme=onedark)](https://github.com/HarshitSingh-14/github-profile-trophy)
+</div>
 <br>
 <h1 align="center">Get connected with me ;):point_down:</h1>
    <p align="center">
@@ -60,6 +63,10 @@ Brief STATS about me :)
 <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-</div>
 
+[![Pushpanjali's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshitSingh-14)](https://github.com/anuraghazra/github-readme-stats)
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pHarshitSingh-14&show_icons=true&theme=gotham" alt="HarshitSingh-14" /> -->
+
+
+</div>
 
