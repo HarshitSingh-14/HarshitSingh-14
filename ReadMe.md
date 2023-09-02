@@ -9,12 +9,11 @@
 -->
 ![](https://komarev.com/ghpvc/?username=HarshitSingh-14)
 
+<a href="https://quine.sh/profile/HarshitSingh-14"><img src="https://stats.quine.sh/HarshitSingh-14/github" alt="HarshitSingh-14's GitHub stats" width="840px"></a>
 
 Brief STATS about me :)
 
-<p align="center">
-	<img src=https://github-readme-stats.vercel.app/api?username=HarshitSingh-14&show_icons=true alt=HarshitSingh-14 
-  />
+
   
 </p>
 </div>
@@ -64,9 +63,8 @@ Brief STATS about me :)
 </p>
 
 
-[![Pushpanjali's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshitSingh-14)](https://github.com/anuraghazra/github-readme-stats)
+[![harshits's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshitSingh-14)](https://github.com/anuraghazra/github-readme-stats)
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pHarshitSingh-14&show_icons=true&theme=gotham" alt="HarshitSingh-14" /> -->
-
 
 </div>
 
