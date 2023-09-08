@@ -1,5 +1,8 @@
 <div align="center">
-<h2> �  Hi There :wave:, This is Harshit Singh   <a href="https://github.com/HarshitSingh-14/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/HarshitSingh-14" alt="Stars Badge"/></a>
+<h2> <samp>&gt; Hi there, I'm <a href="http://nityanandmathur.tech" target="_blank">Harshit Singh</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>  <a href="https://github.com/HarshitSingh-14/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/HarshitSingh-14" alt="Stars Badge"/>
+
+
+</a>
  </h2>
 
 <!--
@@ -11,60 +14,72 @@
 
 <a href="https://quine.sh/profile/HarshitSingh-14"><img src="https://stats.quine.sh/HarshitSingh-14/github" alt="HarshitSingh-14's GitHub stats" width="840px"></a>
 
-Brief STATS about me :)
+
 
 
   
 </p>
 </div>
-
-<div align="center">
-
--  A CS undergad @ IIIT Guwahati    ___&___      Data Science undergrad @ IIT Madras <br>
-- -:computer: DS, ML  AI Enthusiast <br>
-- -:relaxed: Learning to code <br>
-- -:grinning: Highly Inspired by SaaS <br>
-</div>
-<h3>
-<h2 align="center">You are Visitor No --->  :alien:</h2>
-<p align="center"><img src="https://profile-counter.glitch.me/{harshitsingh-14}/count.svg" alt="harshitsingh-14 :: Visitor's Count" /></p>
-</h3>
+<br>
 <br>
 
+Brief STATS about me :
 
-<h3></h3>
-<h3></h3
-<h3></h3>
+> I am an CS Undergrad @ IIIT Guwahati and a specialised Data Science undergrad @ IIT Madras
+
+> :computer: Machine Learning, Artificial Intelligence and Data Science enthusiast.
+
+> :relaxed: In the process of manking a Groundbreaking Research into a tangible Project
+
+> :grinning: Highly Inspired by SaaS <br>
+
+> Interested in Computer Vision, LLM's and NLP.
+
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="java" width="40" height="40"/><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="java" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="java" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="java" width="40" height="40"/></p>
+
+My career revolves around the fusion of data, technology, and a fervent desire to drive change. I'm on a mission to craft solutions that not only transform businesses but also leave a lasting mark on the world.
 <br>
 
-<div align="center">
-<div align="center">
-  <br>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="408" height="318" />
   
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HarshitSingh-14&theme=dracula&show_icons=true" alt="Harshit's Github Stats"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=HarshitSingh-14&theme=dracula&show_icons=true" /><br>
-  <p align="#center"><img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitSingh-14&layout=compact&hide=html&theme=dracula&show_icons=true" alt="most used language" /></p>
-</div>
+
+**Talking about Personal Stuffs:**
+
+- <img src="https://github.com/nityanandmathur/nityanandmathur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something cool;
+- <img src="https://github.com/nityanandmathur/nityanandmathur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I love applied research.;
+- <img src="https://github.com/nityanandmathur/nityanandmathur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to network;
+- <img src="https://github.com/nityanandmathur/nityanandmathur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: 21f2000688@ds.study.iitm.ac.in;
+- <img src="https://github.com/nityanandmathur/nityanandmathur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](Link).
+
 </br>
 
-<div>
 
-[![trophy]( https://github-profile-trophy.vercel.app/?username=HarshitSingh-14&theme=onedark)](https://github.com/HarshitSingh-14/github-profile-trophy)
-</div>
+
+
+
+
+
+
+
+
+
+
 <br>
 <h1 align="center">Get connected with me ;):point_down:</h1>
-   <p align="center">
-<a href="https://github.com/HarshitSingh-14" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a>
-<a href="https://www.linkedin.com/in/harshit-singh-5026bb1b8/">
-<img alt = "LinkedIn"src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:harshitsingh14@gmail.com" target="_blank">
-<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
 
 
-[![harshits's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshitSingh-14)](https://github.com/anuraghazra/github-readme-stats)
-<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pHarshitSingh-14&show_icons=true&theme=gotham" alt="HarshitSingh-14" /> -->
+<div align="center">
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-singh-5026bb1b8/)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](http://iamdata.tech)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/harshan2002)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/harshitsingh7367/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/+919205021433)
+   
+</div>
 
 </div>
 
