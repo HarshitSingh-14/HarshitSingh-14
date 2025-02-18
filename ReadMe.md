@@ -51,8 +51,7 @@ My career revolves around the fusion of data, technology, and a fervent desire t
 - <img src="https://github.com/nityanandmathur/nityanandmathur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something cool;
 - <img src="https://github.com/nityanandmathur/nityanandmathur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I love applied research.;
 - <img src="https://github.com/nityanandmathur/nityanandmathur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to network;
-- <img src="https://github.com/nityanandmathur/nityanandmathur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: 21f2000688@ds.study.iitm.ac.in;
-- <img src="https://github.com/nityanandmathur/nityanandmathur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](Link).
+- <img src="https://github.com/nityanandmathur/nityanandmathur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: harshitsingh14@gmail.com;
 
 </br>
 
