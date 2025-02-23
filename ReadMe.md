@@ -25,7 +25,6 @@
 
 Brief STATS about me :
 
-> I am an CS Undergrad @ IIIT Guwahati and a specialised Data Science undergrad @ IIT Madras
 
 > :computer: Machine Learning, Artificial Intelligence and Data Science enthusiast.
 
