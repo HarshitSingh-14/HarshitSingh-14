@@ -1,5 +1,5 @@
 <div align="center">
-<h2> <samp>&gt; Hi there, I'm <a href="http://nityanandmathur.tech" target="_blank">Harshit Singh</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>  <a href="https://github.com/HarshitSingh-14/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/HarshitSingh-14" alt="Stars Badge"/>
+<h2> <samp>&gt; Hi there, I'm <a href="[https://www.linkedin.com/in/harshan14]" target="_blank">Harshit Singh</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>  <a href="https://github.com/HarshitSingh-14/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/HarshitSingh-14" alt="Stars Badge"/>
 
 
 </a>
