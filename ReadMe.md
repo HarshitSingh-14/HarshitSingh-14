@@ -12,7 +12,6 @@
 -->
 ![](https://komarev.com/ghpvc/?username=HarshitSingh-14)
 
-<a href="https://quine.sh/profile/HarshitSingh-14"><img src="https://stats.quine.sh/HarshitSingh-14/github" alt="HarshitSingh-14's GitHub stats" width="840px"></a>
 
 
 
